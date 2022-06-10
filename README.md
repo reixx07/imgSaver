@@ -21,7 +21,7 @@ Do you want to save image that you are addicted to? I build the script that you 
 [4] 影山 優佳  
 [5] 加藤 史帆  
 [6] 齊藤 京子  
-
+...
 [000] ポカ
 Please choose member's No. >>>
 ```
