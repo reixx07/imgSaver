@@ -47,4 +47,4 @@ Saved all images!
 **Qiita** >>> [@reqcy](https://qiita.com/reqcy)
 
 ## License
-Project License can be found [here]().
+Project License can be found [here](https://github.com/reixx07/imgSaver/blob/main/LICENSE).
